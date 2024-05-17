@@ -136,7 +136,7 @@ nav {
    untuk pengguna vscode silahkan arahkan mouse ke kotak warna di bawah
    untuk mengganti warna sesuai keinginan
    */
-   background-color: #873819aa;
+   background-color: #a30cc1aa;
    backdrop-filter: blur(5px);
 
    /* box-shadow membuat efek bayangan */
@@ -531,7 +531,7 @@ div.kontak {
 
 footer {
    background-color: #198754;
-   background-color: #873819aa;
+   background-color: #a30cc1aa;
    backdrop-filter: blur(5px);
    padding-top: 15px;
    padding-bottom: 15px;
